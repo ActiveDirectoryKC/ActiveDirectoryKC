@@ -1,4 +1,4 @@
-# Hi, I’m Poolmanim | ActiveDirectoryKC | Tyler 👋
+# Hi, I’m Poolmanjim | ActiveDirectoryKC | Tyler 👋
 
 I'm a husband, father, Christian, and Identity engineer. I love PowerShell and homelabbing so there is a good chance I'm doing one or both at any given moment. I break my lab a lot so I don't break my paying job much. I help moderate the Active Directory subreddit and host a backup of links and resources I've gathered here. Feel free to check them out! 
 
