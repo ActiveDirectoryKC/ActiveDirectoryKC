@@ -38,10 +38,6 @@ I'm a husband, father, Christian, and Identity engineer. I love PowerShell and h
 - Security  Hardening
 - Being a Know-it-All
 
-PowerShell • Windows Server • Active Directory • C# • .NET • Automation • Git • CI/CD • YAML
-
-(Adjust this list to match your real skills.)
-
 ---
 
 ## Contact
