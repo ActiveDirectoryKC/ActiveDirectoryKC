@@ -1,35 +1,42 @@
-# Hi, I’m ActiveDirectoryKC 👋
+# Hi, I’m Poolmanim | ActiveDirectoryKC | Tyler 👋
 
-Welcome to my GitHub profile repository — this README appears on my personal landing page. It's a concise snapshot of who I am, what I build, and how to get in touch. Replace any placeholder text below with your real details.
+I'm a husband, father, Christian, and Identity engineer. I love PowerShell and homelabbing so there is a good chance I'm doing one or both at any given moment. I break my lab a lot so I don't break my paying job much. I help moderate the Active Directory subreddit and host a backup of links and resources I've gathered here. Feel free to check them out! 
 
----
-
-## About me
-
-I build, automate, and secure systems. This repo holds the content for my GitHub profile README. I work on projects related to Active Directory, automation, tooling, and infrastructure (customize to your specialties).
-
-- 🔭 I’m currently working on: automation and tooling to improve directory services and Windows administration
-- 🌱 I’m learning: modern DevOps practices and cross-platform automation
+- 🔭 I’m currently working on:
+    - Automation and tooling to improve directory services and Windows administration
+    - AD Lab Automation Tools
+    - Not-So-Enterprise AD Backups using Windows Server Backup and some powershell to do magic.
+    - AD CS push-button build script.
+    - A set of schema extension attributes. 
+- 🌱 I’m learning:
+    - Modern DevOps practices and cross-platform automation
 - 👯 I’m looking to collaborate on: security, automation, and infrastructure projects
 - 💬 Ask me about: PowerShell, Active Directory, Windows Server, scripting, automation
-- 📫 How to reach me: replace-with-email@example.com
-- ⚡ Fun fact: I enjoy automating repetitive tasks to save time
+- 📫 How to reach me: Discord @poolmanjim
+- ⚡ Fun fact: I play games, lab, and know things.
 
 ---
 
 ## Top projects
 
-Here are a few repositories and projects I want to highlight. Replace these with links to your actual repos (or leave as-is until you pick them):
-
-- [ActiveDirectoryKC/ActiveDirectoryKC](https://github.com/ActiveDirectoryKC/ActiveDirectoryKC) — profile README and landing page
-- [Replace-This-With-Repo](https://github.com/ActiveDirectoryKC/REPO-NAME) — short description of the project
-- [Replace-This-With-Repo2](https://github.com/ActiveDirectoryKC/REPO-NAME-2) — short description of the project
-
-Tip: Use the GitHub "Pinned" repositories feature on your profile to show your most important projects.
+- [Active Directory Subreddit Wiki - Backup](https://github.com/ActiveDirectoryKC/RedditADWiki)
+- [Zabbix AD Health Monitors](https://github.com/ActiveDirectoryKC/Zabbix-AD-Health-Monitors)
+    - A draft of a AD Health Monitoring Template for Zabbix.
+- [New-DCCertificateRequest](https://github.com/ActiveDirectoryKC/New-DCCertificateRequest)
+    - The _start_ of a script that is a low-touch/zero-touch means of requesting SAN certificats for Domain Controllers.
+    - This needs updated to include mitgations for current threats so use at your own risk.
+- [Get-PSCustomGenericOIDFromMicrosoft](https://github.com/ActiveDirectoryKC/Get-PSCustomGenericOIDFromMicrosoft)
+    - An update of the old VBS script from Microsoft that requests a random OID range for creating schema attributes. 
 
 ---
 
 ## Skills & Technologies
+- Active Directory / Identity
+- PowerShell
+- AD CS / PKI
+- Windows Server
+- Security  Hardening
+- Being a Know-it-All
 
 PowerShell • Windows Server • Active Directory • C# • .NET • Automation • Git • CI/CD • YAML
 
@@ -37,28 +44,9 @@ PowerShell • Windows Server • Active Directory • C# • .NET • Automatio
 
 ---
 
-## GitHub Stats
-
-Below are a couple of helpful dynamic cards that update automatically for your account. Keep them if you like the automatic stats on your profile.
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ActiveDirectoryKC&show_icons=true&theme=default)](https://github.com/ActiveDirectoryKC)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ActiveDirectoryKC&layout=compact)](https://github.com/ActiveDirectoryKC)
-
----
-
 ## Contact
 
-- Email: replace-with-email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-profile (replace)
-- Twitter: https://twitter.com/your-handle (replace)
-
-Prefer not to publish contact details? Remove or obfuscate them.
+- LinkedIn: https://www.linkedin.com/in/thetylerjacobs
+- Reddit: https://reddit.com/u/poolmanjim
 
 ---
-
-## How to customize this README
-
-1. Edit the text in this file to add your real bio, current projects, and contact info.
-2. Replace the placeholder project links with your repository URLs.
-3. Optionally add more badges, a profile picture, or a GitHub Actions workflow to keep the README updated.
