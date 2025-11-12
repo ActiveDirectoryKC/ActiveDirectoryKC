@@ -9,7 +9,8 @@ I'm a husband, father, Christian, and Identity engineer. I love PowerShell and h
     - AD CS push-button build script.
     - A set of schema extension attributes. 
 - 🌱 I’m learning:
-    - Modern DevOps practices and cross-platform automation
+    - How to present. It's not my natural skill. 
+    - GitHub/GitHub Pages/Git...
 - 👯 I’m looking to collaborate on: security, automation, and infrastructure projects
 - 💬 Ask me about: PowerShell, Active Directory, Windows Server, scripting, automation
 - 📫 How to reach me: Discord @poolmanjim
